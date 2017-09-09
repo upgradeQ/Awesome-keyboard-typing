@@ -9,15 +9,15 @@ I am also frequently asked for tips on typing faster. I believe my biggest advan
 
 # Sites
 ## Type fast english words
-http://play.typeracer.com/
-https://10fastfingers.com/typing-test/english
-https://typegun.com/
+  http://play.typeracer.com/
+  https://10fastfingers.com/typing-test/english
+  https://typegun.com/
 ## Type code faster
-http://www.speedcoder.net/
-https://typing.io/lessons
-http://nimblecode.io/#/
+  http://www.speedcoder.net/
+  https://typing.io/lessons
+  http://nimblecode.io/#/
 ## Listen and type english words 
-http://www.listen-and-write.com/
-https://www.sense-lang.org/typing/tutor/audioStart.php
+  http://www.listen-and-write.com/
+  https://www.sense-lang.org/typing/tutor/audioStart.php
 
 
