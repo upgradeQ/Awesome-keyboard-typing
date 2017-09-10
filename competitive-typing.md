@@ -20,5 +20,5 @@ I am also frequently asked for tips on typing faster. I believe my biggest advan
    http://www.listen-and-write.com/  
    https://www.sense-lang.org/typing/tutor/audioStart.php  
 ## Extra
-### Right hand practice
+##### Right hand practice
 https://10fastfingers.com/text/4507-Right-hand-typing
