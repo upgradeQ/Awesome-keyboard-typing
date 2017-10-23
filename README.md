@@ -12,6 +12,7 @@ I am also frequently asked for tips on typing faster. I believe my biggest advan
    http://play.typeracer.com/  
    https://10fastfingers.com/typing-test/english  
    https://typegun.com/  
+   https://www.keyhero.com/
 ## Type code faster
    http://www.speedcoder.net/  
    https://typing.io/lessons  
