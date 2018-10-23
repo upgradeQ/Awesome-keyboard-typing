@@ -17,5 +17,6 @@
    * https://github.com/cslarsen/wpm
    * [Continue search on github!](https://github.com/topics/typing-game)
 ## Other
+  * https://github.com/HQupgradeHQ/suppressing
   * https://github.com/fgaz/hackertyper
-  *  https://github.com/HQupgradeHQ/suppressing
+  * https://github.com/sloria/doitlive
