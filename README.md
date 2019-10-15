@@ -15,7 +15,7 @@
    * https://rogue-sprite.itch.io/hot-type
    * https://github.com/rr-/10ff
    * https://github.com/cslarsen/wpm
-   * [Continue search on github!](https://github.com/topics/typing-game)
+   * http://www.typefighters.com/download.php
 ## Other
   * https://github.com/HQupgradeHQ/suppressing
   * https://github.com/fgaz/hackertyper
