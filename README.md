@@ -1,21 +1,21 @@
 ## Type english words faster
-   * http://play.typeracer.com/  
-   * https://10fastfingers.com/typing-test/english  
-   * https://typegun.com/  
-   * https://www.keyhero.com/
+   * Test http://play.typeracer.com/  
+   * Game https://typegun.com/  
+   * Test https://www.keyhero.com/
 ## Type code faster
-   * http://www.speedcoder.net/  
-   * https://typing.io/lessons  
-   * http://nimblecode.io/#/  
+   * Test http://www.speedcoder.net/  
+   * Tutorial https://typing.io/lessons  
+   * Test http://nimblecode.io/#/  
 ## Listen & type
-   * http://www.listen-and-write.com/  
-   * https://www.sense-lang.org/typing/tutor/audioStart.php  
+   * Test http://www.listen-and-write.com/  
+   * Test https://www.sense-lang.org/typing/tutor/audioStart.php  
 ## Offline
-   * https://rogue-sprite.itch.io/hot-type
-   * https://github.com/rr-/10ff
-   * https://github.com/cslarsen/wpm
-   * http://www.typefighters.com/download.php
+   * Game `win` https://rogue-sprite.itch.io/hot-type
+   * Test in cli `linux` https://github.com/rr-/10ff
+   * Test in cli `linux` https://github.com/cslarsen/wpm
+   * Game `linux/mac/win` http://www.typefighters.com/download.php
 ## Other
-  * https://github.com/HQupgradeHQ/suppressing
-  * https://github.com/fgaz/hackertyper
-  * https://github.com/sloria/doitlive
+  * Simply randomly mash your keyboard and code will display on your screen.  https://github.com/fgaz/hackertyper
+  * similiar https://github.com/HQupgradeHQ/suppressing
+  * It reads a file of shell commands and replays the commands in a fake terminal session as you type random characters https://github.com/sloria/doitlive
+  * Typing effects for text editors https://github.com/codeinthedark/awesome-power-mode
