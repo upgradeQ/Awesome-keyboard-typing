@@ -1,4 +1,3 @@
-# Sites
 ## Type english words faster
    * http://play.typeracer.com/  
    * https://10fastfingers.com/typing-test/english  
