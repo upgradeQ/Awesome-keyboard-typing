@@ -6,6 +6,7 @@
    * Test http://www.speedcoder.net/  
    * Tutorial https://typing.io/lessons  
    * Test http://nimblecode.io/#/  
+   * Tutorial https://wwwtyro.github.io/keyzen/
 ## Webapp general audio
    * Test http://www.listen-and-write.com/  
    * Test https://www.sense-lang.org/typing/tutor/audioStart.php  
