@@ -3,6 +3,12 @@
    * Game https://typegun.com/  
    * Test https://www.keyhero.com/
    * Game https://typerapp.now.sh/
+   * Test https://typinghq.com/ 
+   * Test https://typenconquer.io/ 
+   * Test https://typetest.io/ 
+   * Test https://typing-speed-test.aoeu.eu/  
+   * Test https://monkey-type.com/ 
+
 ## Webapp code
    * Test http://www.speedcoder.net/  
    * Tutorial https://typing.io/lessons  
